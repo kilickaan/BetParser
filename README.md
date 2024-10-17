@@ -1,2 +1,2 @@
 # BetParser
-https://nesine-case-study.onrender.com/bets parser
+https://nesine-case-study.onrender.com/bets
